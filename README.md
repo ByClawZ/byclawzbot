@@ -1,4 +1,4 @@
-# Zappara Müzik
+# ByClawZ Özel Botudur.
 ByClawZ Özel Müzik Botudur.<br/><br/><br/>
 <img src="https://cdn.discordapp.com/attachments/440820385643233290/449932559267135518/unnamed.png">
 <img src="https://cdn.discordapp.com/attachments/440820385643233290/449932578833825816/unnamed_1.gif">
