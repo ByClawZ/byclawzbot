@@ -1,7 +1,7 @@
 {
   "prefix": "/",
   "PREFIX": "/",
-  "sahipID": "274551537139712001",
+  "sahipID": "",
   "sahipAdı": "EnesOnurAta",
   "sürüm": "3",
   "token": "process.env.Müzik_TOKEN",
